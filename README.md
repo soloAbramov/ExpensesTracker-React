@@ -3,7 +3,7 @@ Expenses tracker to track over all of your monthly expenses by year.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Snapshot from the app
+## Snapshot from the app
 
 
 
