@@ -21,7 +21,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Runs all necessary packages in node modules.
+Runs all necessary packages in node modules base on package.json file.
 
 ### `npm start`
 
