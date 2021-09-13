@@ -19,6 +19,10 @@ https://user-images.githubusercontent.com/59119335/133046842-a99c3ce9-b6cb-4c61-
 
 In the project directory, you can run:
 
+### `npm install`
+
+Runs all necessary packages in node modules.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
